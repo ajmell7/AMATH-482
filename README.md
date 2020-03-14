@@ -1,3 +1,2 @@
 # AMATH-482
-The repository contains five homework assignments from AMATH 482 - Computational Methods for Data Analysis.
-Each assignment contains a 6 page report along with accompanying MATLAB code, figures, and files.
+The repository contains five homework assignments completed by Alyssa Mell for AMATH 482 - Computational Methods for Data Analysis. Each assignment contains a 6 page report along with accompanying MATLAB and Python code, figures, and files. In order to learn more about each assignment, it is best to start by reading the reports titled AMATH_482_hw#.pdf within each folder. These papers provide details about each assignment as well as information about code implementation and development.
